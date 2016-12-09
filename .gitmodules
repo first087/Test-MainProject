@@ -1,7 +1,7 @@
 [submodule "submodules-1"]
 	path = submodules-1
-	url = git@github.com:first087/Test-SubProject-1.git
+	url = https://github.com/first087/Test-SubProject-1.git
 [submodule "submodules-2"]
 	path = submodules-2
-	url = git@github.com:first087/Test-SubProject-2.git
+	url = https://github.com/first087/Test-SubProject-2.git
 	branch = bugfix
